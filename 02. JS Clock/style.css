@@ -9,7 +9,7 @@ html {
 
 body {
     display: flex;
-    background: url("images/background.jpg") no-repeat center center/cover;
+    background: url("../Images/02.\ JS\ Clock.jpg") no-repeat center center/cover;
     /* background-color: darkgray; */
     min-height: 100vh;
     align-items: center;
